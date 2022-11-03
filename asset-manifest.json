@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af326a74.css",
+    "main.js": "/static/js/main.61c83d25.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/myImg.jpg": "/static/media/myImg.e393728abac571d3251a.jpg",
+    "static/media/js.png": "/static/media/js.37dd0697ee49e72f6ea0.png",
+    "static/media/viber.png": "/static/media/viber.479e1c693358bfdfc654.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/github.png": "/static/media/github.553c66159c5672f25df6.png",
+    "static/media/telegram.png": "/static/media/telegram.e8540dc14b381676ad9c.png",
+    "static/media/redux.png": "/static/media/redux.296b9306ae3e4de348c6.png",
+    "static/media/linkedin.png": "/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/ui.png": "/static/media/ui.5b2d8a0a309d9f7d47c1.png",
+    "static/media/facebook.png": "/static/media/facebook.795fce8e464693d7346d.png",
+    "static/media/css.png": "/static/media/css.6ff70445747d9d37c578.png",
+    "static/media/html.png": "/static/media/html.646adb1ca038084a6e4f.png",
+    "index.html": "/index.html",
+    "main.af326a74.css.map": "/static/css/main.af326a74.css.map",
+    "main.61c83d25.js.map": "/static/js/main.61c83d25.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af326a74.css",
+    "static/js/main.61c83d25.js"
+  ]
+}
